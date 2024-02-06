@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shiva Nath 
-- 👀 I’m interested in data science and machine learning
+- 👀 I’m interested in data science,machine learning and full-stack web development.
 - 🌱 I’m currently learning backend development 
-- 💞️ I’m looking to collaborate on project that deals with data science 
+- 💞️ I’m looking to collaborate on project that deals with data science  and front-end development 
 - 📫 How to reach me  nathshiva907@gmail.com or https://www.linkedin.com/in/shiva-nath-156b26262/
 - 😄 Pronouns: ...Mr SHIVA
 - ⚡ Fun fact: ...I am passionate about coding and a healthy lifestyle
